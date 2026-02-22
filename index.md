@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# [Your Name] –  SOC / Blue Team Analyst
+# Peter Korman –  SOC / Blue Team Analyst
 
 I am an IT professional with 15+ years of experience in software development and integration, now focusing on a career as a  SOC / Blue Team analyst.  
 This portfolio documents my hands‑on labs (TryHackMe, Splunk) and my journey toward a SOC role in 2026.
