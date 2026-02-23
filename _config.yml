@@ -7,12 +7,12 @@ baseurl: "/portfolio-soc-blue-team"  # ← TOHLE JE KLÍČOVÉ!
 url: "https://peterkor.github.io"
 
 # Jekyll theme (GitHub Pages supported)
-theme: jekyll-theme-minimal
+theme: jekyll-theme-hacker
 
 # Plugins (GitHub Pages default)
-#plugins:
-#  - jekyll-feed
-#  - jekyll-seo-tag
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
 
 # Markdown engine
 #markdown: kramdown
