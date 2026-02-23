@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Peter Korman –  SOC / Blue Team Analyst
 
 I am an IT professional with 15+ years of experience in software development and integration, now focusing on a career as a  SOC / Blue Team analyst.  
