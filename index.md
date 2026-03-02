@@ -1,3 +1,8 @@
+---
+title: About
+soc_progress: 26
+---
+
 # Peter Korman –  SOC / Blue Team Analyst
 
 I am an IT professional with 15+ years of experience in software development and integration, now focusing on a career as a  SOC / Blue Team analyst.  
@@ -8,7 +13,7 @@ This portfolio documents my hands‑on labs (TryHackMe, Splunk) and my journey t
 - **SEC1 Certification** – [View on Credly](https://www.credly.com/badges/ee1274e5-ca82-4be9-b196-87049ca26b8a/public_url)  
 - **Cyber Security Specialist (Kyberkurz 2025)** – 200 hours of coursework by BOIT, accredited by MSMT (Czech Ministry of Education) [Certificate](files/Kyberkurz2025_ENG.pdf)
 - 15+ years in IT (software development, integration)  
-- Currently in 15% of the **SOC Level 1 path** on TryHackMe, aiming for **Security Analyst Level 1 (SAL1)** certification.
+- Currently in {{ page.soc_progress }}% of the **SOC Level 1 path** on TryHackMe, aiming for **Security Analyst Level 1 (SAL1)** certification.
 
 ## Focus areas
 
@@ -19,7 +24,7 @@ This portfolio documents my hands‑on labs (TryHackMe, Splunk) and my journey t
 
 ## SOC Level 1 Path – Progress
 
-I am currently in 26% of the SOC Level 1 path. I will document each module as I complete it.  
+I am currently in {{ page.soc_progress }}% of the SOC Level 1 path. I will document each module as I complete it.  
 See the full path: [SOC Level 1 on TryHackMe](https://tryhackme.com/careers/cyber-security-analyst).
 
 ## Splunk Deep‑Dive
